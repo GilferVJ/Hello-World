@@ -1,0 +1,7 @@
+header {
+    background-color: #333; /* Dark background for contrast */
+    color: white; /* White text for readability */
+    text-align: center; /* Center align the text */
+    padding: 20px; /* Space inside the header */
+    font-size: 24px; /* Larger text for header */
+}
